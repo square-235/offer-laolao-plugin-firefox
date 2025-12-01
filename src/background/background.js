@@ -1,7 +1,7 @@
-// 简历自动填写助手 - Background Service Worker
+// 简历自动填写助手 - Background Script
 // 处理 content script 和 popup 之间的消息传递
 
-console.log("Background service worker 已启动");
+console.log("Background script 已启动");
 
 // 存储模型配置
 let modelConfig = null;
