@@ -12,6 +12,15 @@
 
 🌐 **在线访问**：[https://resume-extension-website.vercel.app/](https://resume-extension-website.vercel.app/)
 
+## 📦 安装指南
+
+### Firefox 浏览器安装（Chrome系浏览器请到原项目[offer-laolao-plugin](https://github.com/itxaiohanglover/offer-laolao-plugin)）
+
+[点击下载xpi文件（已签名）](https://github.com/square-235/offer-laolao-plugin-firefox/raw/refs/heads/firefox/extension-signed-1.3.xpi)
+
+双击安装
+
+
 ## ✨ 核心功能特性
 
 ### 📄 智能简历解析
@@ -123,12 +132,6 @@ super_resume/
 │   └── popup/                 # 弹出页面
 └── README.md
 ```
-
-## 📦 安装指南
-
-### Firefox 浏览器安装（Chrome系浏览器请到原项目[offer-laolao-plugin](https://github.com/itxaiohanglover/offer-laolao-plugin)）
-
-[点击安装](extension-signed-1.3.xpi)
 
 ## 🚀 使用教程
 
@@ -251,4 +254,5 @@ super_resume/
 
 <p align="center">
   <strong>让求职更轻松 ✨</strong>
+
 </p>
