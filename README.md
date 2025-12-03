@@ -126,31 +126,7 @@ super_resume/
 
 ## 📦 安装指南
 
-### Firefox 浏览器安装（调试模式）
-
-1. **下载项目**
-
-   ```bash
-   git clone https://github.com/square-235/offer-laolao-plugin-firefox.git
-   ```
-
-   或直接下载 ZIP 并解压
-
-2. **打开 Firefox 调试页面**
-
-   - 在地址栏输入：`about:debugging`
-   - 点击左侧「此 Firefox」选项
-
-3. **临时加载扩展**
-
-   - 点击「临时载入附加组件」按钮
-   - 选择项目根目录下的 `manifest.json` 文件
-
-4. **完成安装**
-   - 扩展将出现在扩展列表中
-   - 点击扩展图标即可打开简历填写助手
-
-> ⚠️ 注意：Firefox 版本目前处于调试模式加载状态，关闭浏览器后需要重新加载。正式打包版本将在后续发布。
+### Firefox 浏览器安装（Chrome系浏览器请到原项目[offer-laolao-plugin](https://github.com/itxaiohanglover/offer-laolao-plugin)）
 
 ## 🚀 使用教程
 
