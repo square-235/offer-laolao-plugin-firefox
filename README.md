@@ -128,6 +128,8 @@ super_resume/
 
 ### Firefox 浏览器安装（Chrome系浏览器请到原项目[offer-laolao-plugin](https://github.com/itxaiohanglover/offer-laolao-plugin)）
 
+[点击安装](extension-signed-1.3.xpi)
+
 ## 🚀 使用教程
 
 ### 第一步：配置 API（可选但推荐）
